@@ -1,2 +1,2 @@
 ### Usage Window
-!(usage)[usage.png]
+![usage](usage.png)
